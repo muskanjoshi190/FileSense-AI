@@ -26,6 +26,8 @@ The dashboard provides an overview of indexed files, storage usage, file categor
 
 ![fileSense Dashboard](docs/dashboard.png)
 
+![fileSense Dashboard Details](docs/dashboard-details.png)
+
 ### 2. Semantic Search
 
 Search for files using natural-language queries and discover relevant results based on meaning.
