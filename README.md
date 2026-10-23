@@ -1,122 +1,73 @@
-\# FileSense AI — Smart File Organizer
+# FileSense AI — Smart File Organizer
 
+FileSense AI is a Python-based application that helps users organize files, identify duplicate files, and manage their files efficiently through a simple interface.
 
+## Features
 
-FileSense AI is a Python-based application designed to organize files, detect duplicate files, and manage files more efficiently.
+- **Smart File Organization:** Organizes files into suitable categories.
+- **Duplicate Detection:** Detects duplicate and similar files.
+- **File Scanning:** Scans files for analysis and organization.
+- **File Management:** Provides tools to manage files efficiently.
+- **Local Database:** Uses SQLite to store application data.
 
+## Tech Stack
 
+- Python
+- SQLite
+- HTML, CSS, and JavaScript
+- File Similarity Detection
 
-\## Features
-
-
-
-\- \*\*Smart File Organization:\*\* Organizes files into suitable categories.
-
-\- \*\*Duplicate Detection:\*\* Identifies duplicate or similar files.
-
-\- \*\*File Scanning:\*\* Scans files for organization and analysis.
-
-\- \*\*File Management:\*\* Helps manage and organize files through the application interface.
-
-
-
-\## Tech Stack
-
-
-
-\- Python
-
-\- SQLite
-
-\- Tkinter / UI components \*(confirm the actual UI framework used in your project)\*
-
-\- File similarity detection
-
-
-
-\## Project Structure
-
-
+## Project Structure
 
 ```text
-
 FileSense-AI/
-
 ├── main.py
-
 ├── api.py
-
 ├── database.py
-
-├── file\_organizer.py
-
-├── file\_scanner.py
-
-├── similarity\_detector.py
-
-├── trash\_manager.py
-
+├── file_organizer.py
+├── file_scanner.py
+├── similarity_detector.py
+├── trash_manager.py
 ├── requirements.txt
-
-├── run\_app.bat
-
-├── build\_portable.bat
-
+├── run_app.bat
+├── build_portable.bat
 ├── icon.ico
-
 └── ui/
-
 ```
 
+## Installation and Usage
 
+1. Clone the repository:
 
-\## Installation and Usage
+   ```bash
+   git clone https://github.com/muskanjoshi190/FileSense-AI.git
+   ```
 
+2. Open the project folder:
 
+   ```bash
+   cd FileSense-AI
+   ```
 
-1\. Clone or download this repository.
+3. Install the dependencies:
 
-2\. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
+4. Run the application:
 
+   ```bash
+   python main.py
+   ```
 
-&#x20;  ```bash
+## Project Status
 
-&#x20;  pip install -r requirements.txt
+Developed as a practical software development project.
 
-&#x20;  ```
+## Author
 
+**Muskan Joshi**
 
-
-3\. Run the application:
-
-
-
-&#x20;  ```bash
-
-&#x20;  python main.py
-
-&#x20;  ```
-
-
-
-\## Project Status
-
-
-
-Developed as a software project for learning and practical application development.
-
-
-
-\## Author
-
-
-
-Muskan Joshi
-
-
-
-GitHub: \[muskanjoshi190](https://github.com/muskanjoshi190)
-
-
-
+- GitHub: [muskanjoshi190](https://github.com/muskanjoshi190)
+- Project Repository: [FileSense-AI](https://github.com/muskanjoshi190/FileSense-AI)
