@@ -1,0 +1,7 @@
+numpy>=1.26
+scikit-learn
+python-Levenshtein
+send2trash
+pywebview
+psutil
+pyinstaller
