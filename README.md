@@ -24,33 +24,33 @@ The goal is to make file management smarter, faster, and more secure while provi
 
 The dashboard provides an overview of indexed files, storage usage, file categories, and actionable insights.
 
-![fileSense Dashboard](docs/dashboard.png)
+![fileSense Dashboard](dashboard.png)
 
-![fileSense Dashboard Details](docs/dashboard-details.png)
+![fileSense Dashboard Details](dashboard-details.png)
 
 ### 2. Semantic Search
 
 Search for files using natural-language queries and discover relevant results based on meaning.
 
-![fileSense Semantic Search](docs/semantic-search.png)
+![fileSense Semantic Search](semantic-search.png)
 
 ### 3. AI File Organizer
 
 Organize files by category or date through a centralized file organization interface.
 
-![fileSense AI File Organizer](docs/ai-organizer.png)
+![fileSense AI File Organizer](ai-organizer.png)
 
 ### 4. AI Risk Detector
 
 Identify potentially sensitive information in files, including API keys, passwords, and other security-related patterns.
 
-![fileSense AI Risk Detector](docs/risk-detector.png)
+![fileSense AI Risk Detector](risk-detector.png)
 
 ### 5. Settings and Privacy
 
 Configure indexing, AI features, and privacy-related preferences.
 
-![fileSense Settings](docs/settings.png)
+![fileSense Settings](settings.png)
 
 ## ⚙️ How It Works
 
