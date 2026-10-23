@@ -63,15 +63,14 @@ Configure indexing, AI features, and privacy-related preferences.
 
 ## 🛠️ Technology Stack
 
-Update this section to match the technologies actually used in the project.
-
-- **Programming Language:** [Python / JavaScript / other]
-- **User Interface:** [Actual UI framework]
-- **Desktop Framework:** [Electron / Tauri / other, if applicable]
-- **Database:** [SQLite / other]
-- **AI / Search:** [Actual model, embedding library, or search engine]
-- **File Processing:** [Actual libraries used]
-- **Development Tools:** Git, GitHub, [other tools]
+- **Programming Language:** Python
+- **User Interface:** HTML, CSS, JavaScript (verify against the UI source)
+- **Desktop Framework:** PyWebView
+- **Machine Learning / Similarity:** scikit-learn
+- **System Monitoring:** psutil
+- **File Management:** python-Levenshtein, send2trash
+- **Build Tool:** PyInstaller
+- **Version Control:** Git and GitHub
 
 ## 🚀 Getting Started
 
